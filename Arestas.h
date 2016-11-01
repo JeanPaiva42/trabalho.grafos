@@ -5,6 +5,7 @@
 #ifndef TRABALHO_GRAFOS_ARESTAS_H
 #define TRABALHO_GRAFOS_ARESTAS_H
 
+//Aqui nas arestas estamos colocando o peso das mesmas e além dissoo id do No de chegada
 class Arestas {
 private:
     int idChegada;
