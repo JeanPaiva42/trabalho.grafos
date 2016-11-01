@@ -25,3 +25,6 @@ int No::getPesoNo() {
     return pesoNo;
 }
 
+void No::addAresta(int a, int b) {
+    arestas.push_back(a, b);
+}

@@ -6,7 +6,7 @@
 #include <iostream>
 #include <stdlib.h>
 
-Arestas::Arestas(int id, p) {
+Arestas::Arestas(int id, int p) {
     idChegada = id;
     peso = p;
 }

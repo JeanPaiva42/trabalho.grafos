@@ -11,6 +11,7 @@ private:
     int id;
     int pesoNo;
     int grauNo;
+    vector <Arestas> arestas;
 public:
     No(int a);
 
@@ -21,6 +22,8 @@ public:
     int getPesoNo();
 
     int getGrauNo();
+
+    void addAresta(int a, int b);
 };
 
 #endif //TRABALHO_GRAFOS_NO_H
