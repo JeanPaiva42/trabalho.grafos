@@ -5,7 +5,7 @@
 #ifndef TRABALHO_GRAFOS_NO_H
 #define TRABALHO_GRAFOS_NO_H
 
-//Classe No, seria os nossos vertices, essa classe contem os dado de identificação, peso e grau do no.
+//Classe No, seria os nossos vertices, essa classe contem os dado de identificação, peso e grau do no...
 class No {
 private:
     int id;
